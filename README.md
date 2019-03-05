@@ -1,2 +1,3 @@
 # Test-PA
-It's a repository just for test.
+Name: Kim-Jin-Woo
+std Number: 201730198

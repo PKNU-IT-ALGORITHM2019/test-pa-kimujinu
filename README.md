@@ -1,3 +1,6 @@
 # Test-PA
 Name: Kim-Jin-Woo
-std Number: 201730198
+
+Std Number: 201730198
+
+IT Convergence and App. Dept
